@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Jade Bañares",
+	"author": "Jade Banares",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
